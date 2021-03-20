@@ -12,4 +12,4 @@ This evaluation may be helpful for others, so I am publishing it here.
 
 ## Copyright
 
-Everithing what I collect on this page is copyrighted by the manufactures. However, feel free to reuse my work of collecting the information, software etc.
+Everything what I collect on this page is copyrighted by the manufactures. However, feel free to reuse my work of collecting the information, software etc.

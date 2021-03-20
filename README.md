@@ -15,33 +15,37 @@ Everything what I collect on this page is copyrighted by the manufactures. Howev
 
 ## Switches
 
-[Link](aten-us421a/)
+[aten-us421a](aten-us421a/)
+
+Software controllable. Very bady usability.
+
 ![](aten-us421a/AT-US421A_back.jpeg)
 
-[Link](it-well_IT-102AU_USB2/)
+
+[it-well_IT-102AU_USB2](it-well_IT-102AU_USB2/)
+
+Software controllable via USB - somehow.
+
 ![](it-well_IT-102AU_USB2/P1130671.JPG)
 
-[Link](it-well_IT-202MU_USB2/)
+[it-well_IT-202MU_USB2](it-well_IT-202MU_USB2/)
 ![](it-well_IT-202MU_USB2/P1130674.JPG)
 
-[Link](it-well_IT-204MU_USB2/)
+[it-well_IT-204MU_USB2](it-well_IT-204MU_USB2/)
+
+No USB hub, just analog switch. I added a Rpi Pico to control it using USB.
+
 ![](it-well_IT-204MU_USB2/P1130675.JPG)
 
-[Link](it-well_IT-324AU_USB3/)
+
+[it-well_IT-324AU_USB3](it-well_IT-324AU_USB3/)
 ![](it-well_IT-324AU_USB3/P1130679.JPG)
 
-[Link](it-well_IT-424MU_USB2/)
+
+[it-well_IT-424MU_USB2](it-well_IT-424MU_USB2/)
 ![](it-well_IT-424MU_USB2/P1130677.JPG)
 
-[Link](ugreen_691_USB2/)
+
+[ugreen_691_USB2](ugreen_691_USB2/)
 ![](ugreen_691_USB2/P1130684.JPG)
-
-[Link](/)
-![]()
-
-[Link](/)
-![]()
-
-[Link](/)
-![]()
 

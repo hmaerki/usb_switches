@@ -3,6 +3,11 @@
 * Digitec: https://www.digitec.ch/de/s1/product/aten-us421a-switch-box-437188
 * CHF 36
 
+## Links
+
+There is a promising windows console application to allow switching: [](https://github.com/kellpete/US421A-Switcher).
+I had not chance to test it yet. Thanks to [Jorge Schrauwen](https://github.com/sjorge) for the hint.
+
 ## Internals
 
 A I remember, there is a USB-Hub and a HID device.
@@ -10,7 +15,7 @@ The HID device is used to switch by software.
 
 I tried to reengineer the USB HID device, however there was so much and constant traffic. So I gave up.
 
-## Software controllerd
+## Software controlled
 
 The USB ports may be switches by software or by pressing the buttons.
 When pressing a button for a long time, the USB port is blocked.

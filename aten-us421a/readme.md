@@ -5,7 +5,7 @@
 
 ## Links
 
-There is a promising windows console application to allow switching: [](https://github.com/kellpete/US421A-Switcher).
+There is a promising windows console application to allow switching: https://github.com/kellpete/US421A-Switcher.
 I had not chance to test it yet. Thanks to [Jorge Schrauwen](https://github.com/sjorge) for the hint.
 
 ## Internals

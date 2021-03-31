@@ -15,6 +15,10 @@ Everything what I collect on this page is copyrighted by the manufactures. Howev
 
 ## Switches
 
+[am-U301_USB3](am-U301_USB3/)
+![](am-U301_USB3/P1130727.JPG)
+
+
 [aten-us421a](aten-us421a/)
 
 Software controllable. Very bady usability.
@@ -38,6 +42,10 @@ No USB hub, just analog switch. I added a Rpi Pico to control it using USB.
 ![](it-well_IT-204MU_USB2/P1130675.JPG)
 
 
+[it-well_IT-322MU_USB3](it-well_IT-322MU_USB3/)
+![](it-well_IT-322MU_USB3/P1130722.JPG)
+
+
 [it-well_IT-324AU_USB3](it-well_IT-324AU_USB3/)
 ![](it-well_IT-324AU_USB3/P1130679.JPG)
 
@@ -48,4 +56,10 @@ No USB hub, just analog switch. I added a Rpi Pico to control it using USB.
 
 [ugreen_691_USB2](ugreen_691_USB2/)
 ![](ugreen_691_USB2/P1130684.JPG)
+
+[MT-SW241-CH](MT-SW241-CH/)
+![](MT-SW241-CH/P1130735.JPG)
+
+[FJ-1A4B](FJ-1A4B/)
+![](FJ-1A4B/P1130731.JPG)
 
